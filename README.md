@@ -103,7 +103,8 @@ Follow these steps to run the project on your local machine:
 1. **Clone the Repository**:
    - Clone the project repository to your local machine:
      ```bash
-     git clone <repository_url>
+     git clone https://github.com/HimadeepRagiri/Credit_Risk_Scoring_System.git
+     cd Credit_Risk_Scoring_System
      ```
 
 2. **Install Dependencies**:
